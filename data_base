@@ -1,9 +1,9 @@
 # Database Configuration (XAMPP)
 
 ## Steps to Set Up MySQL in XAMPP:
-
+phpmyadmin
 1. Open XAMPP and start the MySQL service.
-2. Open phpMyAdmin at [http://localhost/phpmyadmin](http://localhost/phpmyadmin).
+2. Open phpMyAdmin at [http://localhost/phpmyadmin](http://localhost/).
 3. Create a new database: `parcial_db`.
 4. Run the following SQL script to create a sample table:
 
